@@ -40,9 +40,3 @@ The system is equipped with simple safeguards, ensuring a smooth user experience
 - Requires appropriate inputs for motorcycle and customer details.
 - Prompts users with clear messages for navigating the menu effectively.
 
-## How to Run:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/motorcycle-dealership.git
-   cd motorcycle-dealership
